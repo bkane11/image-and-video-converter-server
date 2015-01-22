@@ -1,0 +1,25 @@
+{
+  "name": "image-video-lister",
+  "version": "0.0.0",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "Ben Kane <ben.kane@aecom.com>",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "image",
+    "video"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mime": "~1.2.11",
+    "walk": "~2.3.9"
+  }
+}
