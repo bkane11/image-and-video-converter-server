@@ -64,8 +64,7 @@ console.log(images);
 //   , filters: ["Temp", "_Temp"]
 // };
 
-// walker = walk.walk("C:/Port_of_Oakland_GSMS/Development_Data/Aviation_APMS/CrackImagery", options);
-// // walker = walk.walk("C:/Port of ", options);
+// walker = walk.walk("<<DIRECTORY>>", options);
 
 // walker.on('file', function(root, stats, next){
 // 	// fs.readFile(fileStats.name)
